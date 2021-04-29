@@ -1,0 +1,10 @@
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\bin\Debug\pacini_chat_server.exe.config
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\bin\Debug\pacini_chat_server.exe
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\bin\Debug\pacini_chat_server.pdb
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\bin\Debug\Singh_SocketAsyncLib.dll
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\bin\Debug\Singh_SocketAsyncLib.pdb
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\obj\Debug\pacini_chat_server.csprojAssemblyReference.cache
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\obj\Debug\pacini_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\obj\Debug\pacini_chat_server.csproj.CopyComplete
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\obj\Debug\pacini_chat_server.exe
+C:\Users\Studente\source\repos\pacini_chat\pacini_chat_server\obj\Debug\pacini_chat_server.pdb

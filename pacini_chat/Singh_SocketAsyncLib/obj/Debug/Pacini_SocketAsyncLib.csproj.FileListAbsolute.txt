@@ -1,0 +1,11 @@
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\bin\Debug\Singh_SocketAsyncLib.dll
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\bin\Debug\Singh_SocketAsyncLib.pdb
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Pacini_SocketAsyncLib.csprojAssemblyReference.cache
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Pacini_SocketAsyncLib.csproj.CoreCompileInputs.cache
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Singh_SocketAsyncLib.dll
+C:\Users\Studente\source\repos\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Singh_SocketAsyncLib.pdb
+C:\Users\studenti\Desktop\pacini_chat\pacini_chat\Singh_SocketAsyncLib\bin\Debug\Singh_SocketAsyncLib.dll
+C:\Users\studenti\Desktop\pacini_chat\pacini_chat\Singh_SocketAsyncLib\bin\Debug\Singh_SocketAsyncLib.pdb
+C:\Users\studenti\Desktop\pacini_chat\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Pacini_SocketAsyncLib.csprojAssemblyReference.cache
+C:\Users\studenti\Desktop\pacini_chat\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Singh_SocketAsyncLib.dll
+C:\Users\studenti\Desktop\pacini_chat\pacini_chat\Singh_SocketAsyncLib\obj\Debug\Singh_SocketAsyncLib.pdb
